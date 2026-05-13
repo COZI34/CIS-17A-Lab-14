@@ -15,7 +15,7 @@ int main() {
 
     do {
 		// menu for user to select from
-        cout << "\nPlease select from the following choices:\n";
+        cout << "Please select from the following choices:\n";
         cout << "1) Enter a new name\n";
         cout << "2) Print last name entered\n";
         cout << "3) Search for character in name\n";
